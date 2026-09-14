@@ -79,7 +79,7 @@ Create a `.env` file in the backend and add the required configuration such as t
 
 ## Project Status
 
-**Currently under development.**
+**Currently under development**
 
 Initial development focuses on setting up the MERN application structure, database design, and core hospital management modules.
 
