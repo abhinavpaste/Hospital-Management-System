@@ -4,7 +4,7 @@ A web-based **Hospital Management System** built using the **MERN stack** to man
 
 ## Project Overview
 
-The system is designed to bring basic hospital activities into one platform. It allows hospital staff to manage patient information, doctor details, appointments, and medical records in an organized way.
+The system is designed to bring these basic hospital activities into one platform. It allows hospital staff to manage patient information, doctor details, appointments, and medical records in an organized way.
 
 The project is being developed with a focus on building a practical and easy-to-use system while following a structured backend and database design.
 
